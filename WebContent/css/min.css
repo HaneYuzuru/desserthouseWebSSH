@@ -1,0 +1,121 @@
+.goods_info{
+  position:relative;;
+  margin-top: 100px !important;
+  margin-left: 310px !important;
+  width: 600px !important;
+}
+.form_info{
+  position:relative;
+  margin-top: 200px !important;
+  margin-left: 300px !important;
+  width: 700px !important;
+}
+.login_info{
+	position:relative;
+  	margin-top: 160px !important;
+ 	margin-left: 450px !important;
+ 	width: 700px !important;
+}
+.choose_info{
+	position:relative;
+ 	margin-top: 200px !important;
+  	margin-left: 190px !important;
+  	width: 700px !important;
+}
+.goodslist_info{
+  position:relative;
+  margin-top: 80px !important;
+  margin-left: 300px !important;
+  width: 700px !important;
+}
+.text_input{
+  width: 200px !important;
+}
+.sale_table{
+	position:absolute;
+	left:260px;
+	top:200px;
+	width:400px;
+}
+.sale_add{
+	position:absolute;
+	left:640px;
+	top:200px;
+	width:700px;
+}
+.preorder_add{
+	position:absolute;
+	left:440px;
+	top:250px;
+	width:700px;
+}
+.personal-info{
+    position: absolute;
+    top: 110px;
+    left: 43px;
+    width: 200px;
+}
+.personal-info > h1{
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #16a085;
+    opacity: .95;
+}
+.personal-info > h2{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 10px;
+    color: lightgrey;
+    opacity: .95;
+}
+.personal-info > hr{
+    display: block;
+    color: lightgrey;
+    margin-top: 30px;
+}
+.left-list-admin{
+    position:absolute;
+    top:250px;
+    left: 0px;
+    width: 200px;
+}
+.left-list-admin > ul{
+    list-style-type: none;
+}
+.left-list-admin > ul > li > a{
+    font-size: 30px;
+    line-height: 60px;
+    font-weight: 400;
+}
+.table_position{
+	position:relative;
+  	margin-top: 200px !important;
+  	margin-left: 150px !important;
+  	width: 900px !important;
+}
+.canvas_position{
+	position:relative;
+  	margin-top: 200px !important;
+  	margin-left: 350px !important;
+  	width: 700px !important;
+}
+.b_info{
+	
+}
+.d_info{
+	
+}
+.p_info{
+	
+}
+.s_info{
+	
+}
+.modify_plan{
+	
+}
+.cancel_sale{
+	
+}
+
